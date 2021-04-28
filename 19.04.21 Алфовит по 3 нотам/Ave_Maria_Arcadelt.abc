@@ -1,0 +1,41 @@
+
+[V: S] z !p!AGA|(FG) !breath!A2|Ac!mf!c2|
+[V: A] z    FEC|(DE) !breath!F2|FF    F2|
+[V: T] z    ccA|(Ac) !breath!c2|cA    A2|
+[V: B] z    F,C,F,|(D,C,) !breath!F,2|F,F,    F,2|
+[V: S] (BA) !p!G2 |z AGA|(FG) A2|
+[V: A] F2       E2|z FEC|(DE) F2 |
+[V: T] (dc)     c2|z ccA|(Ac) c2 |
+[V: B] (B,,F,) C,2|z F,C,F,|(D,C,) F,2 |
+[V: S] (GA) (B/A/) (G/F/)|G2 F2|!mf!Fc c2|
+[V: A] (EF) FD           |E2 F2|    FF F2|
+[V: T] c2 dA             |c2 A2|    AA A2|
+[V: B] (C,F,) B,,D,      |C,2 F,,2|    F,F, F,2|
+[V: S] (de) f2 |!mf!eccd|!breath!ef (f/e/) (d/c/)|
+[V: A] (FA) A2 |    AEEG|!breath!GAGE            |
+[V: T] (G^c) d2|    =ccc=B|!breath!cccc          |
+[V: B] (D,A,,) D,2 |    A,A,A,G,|!breath!C,F,C,A,|
+[V: S] d>d !breath!c!p!F|cc (de) |!breath!f2 !mf!ec |
+[V: A] G>G !breath!E   F|FF (FA) |!breath!A2     AE |
+[V: T] =BB !breath!c   A|AA (A^c)|!breath!d2     =cc|
+[V: B] G,G,, !breath!C, F,|F,F, (D,A,,) |!breath!D,2 A,A,|
+[V: S] (cd) e(f-|f/e/) d/c/ d2|c2 z2|z !f!ffe|
+[V: A] (EG) G(A |G)E G2       |E2 z2|z    AAA|
+[V: T] (c=B) cc |c2 (c=B)     |c2 z2|z    ccc|
+[V: B] (A,G,) C,F,|(C,A,) G,2 |C,2 z2|z    F,F,A,|
+[V: S] d2 !breath!^c2|!p!=c2 d2|d2 c (B/A/)|B2 A2|
+[V: A] F2 !breath!E2 |   E2 F2 |F2 FF      |F2 F2|
+[V: T] A2 !breath!A2 |   G2 B2 |B2 Ac      |d2 c2|
+[V: B] D,2 !breath!A,,2 |   C,2 B,,2 |B,,2 F,F,|B,,2 F,2|
+[V: S] z !mf!Acd|c2 !breath!B2|A2 GA|
+[V: A] z     FFF|F2 !breath!D2|F2 CC|
+[V: T] z     cAB|A2 !breath!G2|A2 cF|
+[V: B] z     F,F,B,,|F,2 !breath!G,2|D,2 E,F,|
+[V: S] (B/A/) (G/F/) G2|!fermata!F2 (FA)|cdcB|
+[V: A] DA, C2          |         C2 (CF)|FFFD|
+[V: T] FF (FE)         |         F2 (AF)|GBAG|
+[V: B] B,,D, C,2       |         F,,2 (F,D,)|C,B,,F,G,|
+[V: S] "^pi\`u lento"A2 GA|(B/A/) (G/F/) G2|!fermata!F2 "^largo"!pp!F2|F4 |]
+[V: A] F2 CC|DA, C2          |         C2               D2|C4 |]
+[V: T] A2 cF|FF (FE)         |         F2               B2|A4 |]
+[V: B] D,2 E,F,|B,,D, C,2    |         F,,2             B,,2|F,,4 |]
