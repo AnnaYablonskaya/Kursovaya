@@ -1,0 +1,13 @@
+X: 131
+T:S
+R:reel
+Z: 1997 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/abc/
+M:C|
+L:1/8
+K:ADor
+gf \
+| eA (3cBA eAcA | cdef gedB | G2BG dGBG | Bdef g2fg |
+| eA (3cBA eAcA | cdef g2fg | afge dBGB | AcBG A2 :|
+|: cd \
+| eaag abag | edef gedB | G2BG dGBG | Bdef g2fg |
+| eaag abag | edef g2fg | afge dBGB | AcBG A2 :|

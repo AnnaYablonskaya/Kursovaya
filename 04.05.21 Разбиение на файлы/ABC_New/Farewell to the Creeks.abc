@@ -1,0 +1,18 @@
+X: 14
+T:Fare
+R:march
+N:The 
+Z:John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/
+M:6/8
+L:1/8
+K:A
+|: a | e2c cBc | def e2d | cde Ace | edc B2a
+| e2c cBc | def e2d | cde  edc | B3   A2 :|
+e | ece aga | fef dcd | cde Ace | edc B2e
+| ece aga | fef dcd | cde  edc | B3   A2 ||
+e | ece aga | fef dcd | cde Ace | edc B2a
+| e2c cBc | def e2d | cde  edc | B3   A2 |
+|: B | cz2 d3  | e2c  cBA | d2f   c2e |     edc B2A
+| cz2 d3  | e2c  cBA | cde edc | B3   A2 :|
+|: e | a2e f2a | e2f  ecA | d2f   c2e |     edc B2e
+| a2e f2a | e2f  ecA | cde  edc | B3   A2 :|

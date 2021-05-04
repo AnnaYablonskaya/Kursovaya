@@ -1,0 +1,22 @@
+X: 1
+T:Teviot Brig
+T:Teviot Bridge
+R:jig
+N: BSFC  VIII-21
+N: Go
+N: Hunter  304
+N: OTDT  p.64
+N: Skye  p.176
+B:RSCDS __-1
+D:
+O:Go
+Z: 1997 by John Chambers <jc@eddie.mit.edu> http://eddie.mit.edu/~jc/music/abc/
+M:6/8
+L:1/8
+K:A
+|:f | ecA AcA | F2A E2F | EFG ABc | d2c B2f |
+ecA AcA | F2A E2c | d2f ecA | B3 A2 :|
+| f | ecA Ace | fdf fga | ecA AGA | BGE E2c/d/ |
+ecA Ace | fdf fga | ecA BGE | A3- A2f |
+ecA Ace | fdf fga | ecA AGA | BGE E2c/d/ |
+ece fdf | geg agf | edc BAG | A3- A2 |]
